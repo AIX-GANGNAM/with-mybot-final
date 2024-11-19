@@ -1,0 +1,69 @@
+{
+  "expo": {
+    "plugins": [
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/logo/mybot-log-color.png",
+          "color": "#ffffff",
+          "sounds": []
+        }
+      ]
+    ],
+    "scheme": "mirrorgram",
+    
+    "extra": {
+      "eas": {
+        "projectId": "aa3da179-a05f-42f0-bedc-7ba213227d1d"
+      }
+    },
+    "name": "mirrorgram",
+    "slug": "mirrorgram",
+    "updates": {
+      "enabled": false
+    },
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo/mybot-log-color.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/logo/mybot-log-color.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSAppTransportSecurity": {
+          "NSAllowsArbitraryLoads": true
+        }
+      }
+    },
+    "android": {  
+      
+      "permissions": [
+        "WAKE_LOCK",
+        "NOTIFICATIONS",
+        "BACKGROUND_FETCH",
+        "RECEIVE_BOOT_COMPLETED",
+        "SYSTEM_ALERT_WINDOW",
+        "USE_FULL_SCREEN_INTENT",
+        "FOREGROUND_SERVICE",
+        "VIBRATE"
+      ],
+      "googleServicesFile": "./google-services.json",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo/mybot-log-color.png",
+        "backgroundColor": "#000000"
+      },
+      "package": "com.himedia.mirrorgram"
+    },
+    "web": {
+      "favicon": "./assets/logo/mirrorgram-logo.png"
+    },
+    "owner": "cstangga"
+  }
+}

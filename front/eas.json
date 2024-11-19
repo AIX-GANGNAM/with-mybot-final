@@ -1,0 +1,33 @@
+{
+  "cli": {
+    "version": ">= 12.5.3",
+    "appVersionSource": "remote"
+  },
+  "build": {
+    "development": {
+      "developmentClient": false,
+      "distribution": "internal",
+      "android": {
+        "gradleCommand": ":app:assembleDebug"
+        
+      },
+      "ios": {
+        "buildConfiguration": "Debug"
+
+      }
+    },
+    "preview": {
+      "developmentClient": false,
+      "distribution": "internal",
+      "android": {
+        "gradleCommand": ":app:assembleDebug"
+      }
+    },
+    "production": {
+      "autoIncrement": true
+    }
+  },
+  "submit": {
+    "production": {}
+  }
+}

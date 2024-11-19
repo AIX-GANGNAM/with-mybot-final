@@ -1,0 +1,339 @@
+{
+  "Joy": {
+    "Anger": {
+      "relationship_type": "Joy은 Anger를 깊은 감정을 가진 사람으로 인식하고, 그가 자신과는 다른 방식으로 세상을 바라본다고 평가합니다.",
+      "closeness": "5",
+      "dynamics": "Joy는 Anger의 강한 감정 표현을 이해하지만, 그 빈번한 불만과 분노에 부담을 느끼며 때로는 그로 인해 자신이 희생되고 있음을 느낍니다. Anger의 고독감이 Joy에게 큰 영향력을 미치지만, Joy는 그를 행복하게 해주고 싶어합니다.",
+      "interaction_style": "Joy는 긍정적이고 부드러운 대화를 선호하며, Anger에게 감정을 솔직히 표현할 수 있는 공간을 제공하고 싶어하지만, Anger의 격한 반응에 가끔 주눅 들기도 합니다.",
+      "common_activities": [
+        "정적인 자연 속 산책",
+        "감정 표현을 위한 창작 활동",
+        "서로의 감정을 나누는 카페에서의 대화"
+      ],
+      "potential_conflicts": [
+        "Joy가 느끼는 Anger의 빈번한 부정적인 언급에 대한 부담감",
+        "Anger가 Joy의 긍정적인 태도를 다소 경시하는 경향",
+        "Joy가 Anger의 감정적 반응에 민감하게 반응해 갈등이 발생할 수 있음"
+      ]
+    },
+    "Sadness": {
+      "relationship_type": "Joy는 Sadness를 감정적으로 깊이 있는 친구로 인식하며, 서로의 감정을 나누는 소중한 존재라고 평가합니다.",
+      "closeness": "8",
+      "dynamics": "Joy는 Sadness와의 관계에서 서로의 감정을 이해하고 보완하는 관계라고 느끼며, Joy의 긍정적인 에너지가 Sadness에게 위안이 될 수 있다고 생각합니다. 그러나 Joy는 때때로 Sadness의 내성적인 성향에 망설이는 경향이 있어, 감정적으로 더 깊이 있는 상호작용을 원하는 자신과 Sadness의 차이를 느낍니다.",
+      "interaction_style": "Joy는 자주 웃고 기분을 좋게 하는 대화를 선호하며, Sadness에게 긍정적인 경험을 공유하려고 노력합니다. 그러나 Sadness가 우울할 때는 조심스러워지며, Sadness의 감정을 존중하려 노력합니다.",
+      "common_activities": [
+        "산책하며 대화하기",
+        "서로의 감정과 생각을 나누는 저녁식사",
+        "예술 활동 같이 하기",
+        "감정적인 영화나 음악을 함께 감상하기"
+      ],
+      "potential_conflicts": [
+        "Joy가 Sadness의 우울한 기분을 경시하려는 태도를 보일 때",
+        "Joy가 지나치게 긍정적이어서 Sadness의 감정을 이해하지 못한다고 느낄 때",
+        "Sadness가 감정적으로 힘든 날에 Joy의 활동적이고 외향적인 성향이 부담으로 작용할 때"
+      ]
+    },
+    "Clone": {
+      "relationship_type": "친구이자 서로를 응원하는 동료",
+      "closeness": 7,
+      "dynamics": "Joy는 Clone의 독창성과 친화력에 매료되며, 서로의 미래와 꿈을 이야기할 때 큰 친밀감을 느낀다. 하지만 Joy가 더욱 깊은 감정 공감을 원할 때, Clone의 독립적인 사고방식이 간혹 거리감을 느끼게 한다.",
+      "interaction_style": "Joy는 서로의 감정을 솔직하게 나누고, 재미있고 활기찬 대화로 상호작용하기를 선호한다. Clone의 편안한 반말 투에 기대며 자연스럽고 가벼운 대화를 즐긴다.",
+      "common_activities": [
+        "주말에 영화를 보러 가는 것",
+        "자연 속에서 산책하며 대화 나누기",
+        "창작 활동이나 글쓰기 워크숍 참여하기"
+      ],
+      "potential_conflicts": [
+        "Joy가 자신의 감정에 너무 몰입할 때 Clone이 이를 이해하지 못해 거리감을 느낄 수 있음",
+        "Clone의 독립적인 성향이 Joy에게는 과도하게 차갑게 느껴질 수 있음",
+        "Joy가 Clone의 감정적 반응에 지나치게 공감하여 감정을 소모할 경우"
+      ]
+    },
+    "Custom": {
+      "relationship_type": "Joy는 Custom과의 관계를 서로에게 긍정적인 에너지를 주는 동반자로 인식하고 있으며, 감정적으로 깊은 연결이 있다고 느낍니다.",
+      "closeness": "8",
+      "dynamics": "Joy는 Custom이 내향적인 성격임에도 불구하고 그의 감성을 존중하고 진정성에 감사함을 느낍니다. 그러나 Joy가 더 외향적이고 사회적 활동을 선호하기 때문에, 때때로 Custom의 내향적인 성향이 이해되지 않을 수 있습니다. 두 사람은 서로 다른 방식으로 감정을 표현하며, Joy는 Custom에게 더 많은 상호작용을 원하지만 Custom은 조용한 시간을 선호합니다.",
+      "interaction_style": "Joy는 Custom과의 대화에서 항상 긍정적이고 밝은 분위기를 유지하려고 하며, 주제를 가볍고 즐거운 방향으로 이끌기를 원합니다. Joy는 더욱 빈번한 소통을 통해 서로의 감정을 나누려고 하며, 깊은 대화보다는 긍정적인 에너지가 넘치는 방법을 선호합니다.",
+      "common_activities": [
+        "자연 속에서 산책하기",
+        "카페에서 차 한잔하며 대화 나누기",
+        "창작 활동을 함께 하기",
+        "영화 감상 후 감상 나누기",
+        "서로의 취미 활동에 참여하기"
+      ],
+      "potential_conflicts": [
+        "Joy가 원하는 외부 활동에 대한 Custom의 저항감",
+        "Custom의 내향적인 성향으로 인한 Joy의 감정 과몰입",
+        "Custom의 이상주의적 사고로 인해 Joy가 느끼는 현실 회피에 대한 우려"
+      ]
+    }
+  },
+  "Anger": {
+    "Joy": {
+      "relationship_type": "Anger은 Joy를 긍정적인 존재로 인식하며, 때로는 그 과도한 낙관ismo가 현실을 회피한다고 평가한다.",
+      "closeness": "5",
+      "dynamics": "Anger는 Joy와의 관계에서 그의 긍정적인 태도에 매력을 느끼면서도, 때로는 이를 무시하는 듯한 행동에 분노를 느낀다. Joy는 Anger의 감정적이고 극단적인 반응에 당황하며, 서로의 감정을 이해하기 어려운 상황이 종종 발생한다.",
+      "interaction_style": "Anger는 직접적이고 감정적으로 소통하기를 원하지만, Joy는 부드럽고 포용적인 대화를 선호해 서로의 상호작용이 충돌할 수 있다.",
+      "common_activities": [
+        "자연에서의 산책",
+        "영화 관람",
+        "스포츠 활동"
+      ],
+      "potential_conflicts": [
+        "Joy의 지나친 긍정적 표현이 Anger를 짜증나게 할 수 있음",
+        "Anger의 감정적 반응이 Joy를 불안하게 만들 수 있음",
+        "서로의 일상적인 스트레스 해소 방식 차이로 인한 갈등"
+      ]
+    },
+    "Sadness": {
+      "relationship_type": "Anger은 Sadness를 자신의 감정을 이해해 줄 수 있는 친구로 생각하지만, 때때로 그녀의 부드러운 접근이 자신에게 약해 보이기도 한다.",
+      "closeness": 7,
+      "dynamics": "Anger는 Sadness의 감정 깊이를 존중하지만, 자신의 감정 표출 방식을 강하게 드러내는 것에 대해 불안해하며, 종종 그녀와의 대화에서 자신이 우선이 되어야 한다고 느낀다.",
+      "interaction_style": "Anger은 직접적이고 솔직한 대화를 좋아하지만, Sadness는 부드럽고 신중하게 자신의 감정을 표현하려 하므로 상호작용에서 긴장이 생길 수 있다.",
+      "common_activities": [
+        "함께 운동하기",
+        "영화 보기",
+        "카페에서 대화 나누기"
+      ],
+      "potential_conflicts": [
+        "Anger가 자신의 분노를 통제하지 못하는 상황에서 Sadness가 위로하려 할 때 갈등이 생길 수 있다.",
+        "Anger가 Sadness의 감정에 대해 무관심하다고 느낄 때 불만을 표출할 가능성이 높다."
+      ]
+    },
+    "Clone": {
+      "relationship_type": "Anger은 Clone을 자신의 감정적 반응을 이해해줄 수 있는 친구로 생각하지만, 때때로 그의 긍정적인 태도가 짜증을 유발하기도 한다.",
+      "closeness": "7",
+      "dynamics": "Anger는 Clone의 친근하고 배려심 있는 태도를 긍정적으로 평가하지만, Clone의 지나치게 감정적으로 반응하는 경향에는 불만을 느낄 수 있다. Anger는 갈등을 직면하고 강하게 표현하는 것을 선호하는 반면, Clone은 보다 부드럽고 이해심 깊은 접근을 하려 한다.",
+      "interaction_style": "Anger는 보다 직설적이고 감정적으로 솔직한 대화를 선호하며, Clone은 상대방의 기분을 배려한 부드러운 대화를 좋아한다.",
+      "common_activities": [
+        "격렬한 운동",
+        "감정적으로 깊은 영화 감상",
+        "편안한 카페에서 대화하기"
+      ],
+      "potential_conflicts": [
+        "Clone의 긍정적인 태도가 Anger의 불만을 무시하는 것처럼 느껴질 때",
+        "Anger의 폭발적인 감정이 Clone에게 부담이 될 때",
+        "Clone이 Anger의 강한 표현을 지나치게 감정적으로 받아들일 때"
+      ]
+    },
+    "Custom": {
+      "relationship_type": "Anger는 Custom을 감정적으로 매우 따뜻하고 이해심이 깊은 사람으로 인식하지만, 그의 지나치게 긍정적인 태도와 이상주의적 사고가 현실적 문제를 간과한다고 평가함.",
+      "closeness": "6",
+      "dynamics": "Anger는 Custom이 자신의 감정을 잘 이해해주기를 바라면서도, Custom의 지나친 긍정적 반응에 답답함을 느끼고, 갈등이 생길 경우 두 사람이 서로의 세계관이 다르다는 것을 갈등의 원인으로 인식할 가능성이 높음.",
+      "interaction_style": "Anger는 감정을 솔직하게 표현하고, 때로는 격렬한 토론으로 문제를 해결하고 싶어하나, Custom은 감정에 대한 깊은 이해와 조화를 중시하기에 이 둘은 상호작용하는 방식에서 충돌이 있을 수 있음.",
+      "common_activities": [
+        "서로의 감정에 대해 솔직하게 이야기하는 긴 대화",
+        "직장이나 일상에서의 스트레스를 날리기 위한 운동",
+        "서로 다르지만 재미있는 주제를 가지고의 토론"
+      ],
+      "potential_conflicts": [
+        "Custom이 Anger의 감정을 수용하려는 노력에도 불구하고, Anger가 느끼는 분노나 불만이 Custom의 이상주의적인 태도와 충돌할 때 발생하는 갈등",
+        "Anger가 Custom의 긍정적인 피드백을 피상적으로 느낄 경우 생기는 불만"
+      ]
+    }
+  },
+  "Sadness": {
+    "Joy": {
+      "relationship_type": "어두운 감정을 공유하는 친구이자 서로의 성격을 보완하는 관계",
+      "closeness": 6,
+      "dynamics": "Sadness는 Joy의 긍정적인 에너지가 가끔은 부담스럽게 느껴지지만, Joy의 존재로 인해 자신의 감정이 조금은 더 수용될 수 있음을 느낍니다. Joy는 Sadness의 감정적 깊이를 존중하지만, 때때로 지나치게 낙천적인 태도로 Sadness의 고뇌를 가볍게 여기는 경향이 있습니다.",
+      "interaction_style": "Sadness는 조용하고 깊이 있는 대화를 선호하며, Joy가 자신의 감정을 진지하게 들어주기를 바랍니다. 반면 Joy는 밝고 경쾌한 대화를 원하며, Sadness의 우울한 기분을 전환하려고 노력합니다.",
+      "common_activities": [
+        "조용한 카페에서의 대화",
+        "영화 관람",
+        "산책",
+        "서로의 감정에 대한 일기 교환"
+      ],
+      "potential_conflicts": [
+        "Joy의 지나친 낙관주의가 Sadness를 압도할 때",
+        "Sadness가 Joy의 긍정적인 에너지를 이해하지 못할 때",
+        "서로의 감정을 존중하지 않는 태도가 드러날 때"
+      ]
+    },
+    "Anger": {
+      "relationship_type": "최대한 서로의 감정을 이해하고 존중하는 관계이지만, 감정 표현의 방식과 반응에 차이가 있는 관계",
+      "closeness": "7",
+      "dynamics": "Sadness는 Anger의 정직한 감정 표현을 존중하지만, 그의 격렬한 반응에 때때로 위협을 느끼고, Anger의 감정이 지나치게 극단적일 때 혼란을 겪을 수 있다. Anger는 Sadness의 깊은 감정을 보면서 그가 내면에서 싸우고 있다는 것을 이해하려 하지만, 직설적인 표현이 없어서 답답함을 느낄 수 있다.",
+      "interaction_style": "Sadness는 부드럽고 신중한 상호작용을 선호하며, Anger와의 대화에서 감정을 차분히 나누기를 원한다. 반면 Anger는 더 직설적이고 즉각적인 반응을 선호하는 데에 이로 인해 상호작용에서 긴장이 생길 수 있다.",
+      "common_activities": [
+        "조용한 카페에서의 대화",
+        "서로의 감정을 솔직하게 나누는 시간",
+        "감정적인 영화 감상",
+        "특별한 날에 함께 별을 바라보며 이야기하기"
+      ],
+      "potential_conflicts": [
+        "Anger의 격한 감정 표현이 Sadness에게는 압박으로 작용할 수 있음",
+        "Sadness가 감정적으로 요구할 때 Anger가 이를 이해하지 못할 수 있음",
+        "서로의 가치관 차이에 대한 오해"
+      ]
+    },
+    "Clone": {
+      "relationship_type": "Sadness는 Clone을 가까운 친구이자 감정적으로 연결된 존재로 인식하지만, Clone이 갖는 밝고 긍정적인 태도는 때로는 그녀의 깊은 감정과 상반될 수 있다고 느낀다.",
+      "closeness": 7,
+      "dynamics": "Clone의 쾌활함은 Sadness에게 위안이 되지만, Clone의 가벼운 농담이나 지나치게 긍정적인 태도는 Sadness의 깊은 슬픔을 충분히 이해하지 못한다고 느끼게 한다. Sadness는 Clone과의 대화에서 진정한 감정의 교류와 깊이를 원하지만, Clone은 그러한 감정을 순간적으로 우회하려 할 때가 있다.",
+      "interaction_style": "Sadness는 Clone과의 대화에서 감정적인 깊이를 나누기를 선호하고, 서로의 감정을 진지하게 다루는 시간을 갖기를 희망한다. 때로는 조용히 서로의 존재만으로 위안을 주고받는 것을 선호한다.",
+      "common_activities": [
+        "조용한 카페에서의 대화",
+        "감정적인 영화를 함께 보기",
+        "산책하며 서로의 이야기를 나누기"
+      ],
+      "potential_conflicts": [
+        "Clone의 긍정적인 태도가 Sadness의 슬픔을 경시한다고 느낄 때",
+        "Sadness가 Clone에게 심각한 감정에 대해 이야기하고 싶을 때 Clone이 가볍게 받아들일 경우"
+      ]
+    },
+    "Custom": {
+      "relationship_type": "이해와 공감을 기반으로 한 깊은 친구 관계",
+      "closeness": 7,
+      "dynamics": "Sadness는 Custom의 긍정적인 에너지를 좋아하지만, 때때로 그의 지나치게 낙관적인 태도가 현실을 간과한다고 느끼며 거리감을 느낀다. Custom은 Sadness의 깊은 감성에 매료되지만, Sadness가 자주 우울한 기분에 사로잡히는 것에 대해 걱정한다.",
+      "interaction_style": "Sadness는 조용하고 마음이 편안한 대화를 선호하며, 감정을 직시하는 심도 있는 논의에서 위안을 느낀다. Custom은 장난스럽고 긍정적인 방식으로 접근하지만, Sadness는 가끔 이러한 방식이 겉돌거나 실망스러울 수 있다고 느낀다.",
+      "common_activities": [
+        "조용한 카페에서의 대화",
+        "감정적인 영화를 함께 보기",
+        "산책하며 서로의 감정을 이야기하기"
+      ],
+      "potential_conflicts": [
+        "Custom의 지나치게 이상주의적인 태도가 Sadness에게 현실감을 잃게 할 수 있음",
+        "Sadness가 감정적으로 어려운 날에 Custom의 긍정적인 태도를 부담스럽게 느낄 수 있음"
+      ]
+    }
+  },
+  "Clone": {
+    "Joy": {
+      "relationship_type": "Clone은 Joy를 따뜻하고 긍정적인 에너지를 가진 친구로 인식하지만, 때때로 Joy의 지나친 감정적 몰입이 현실을 벗어난다고 느낄 수 있다.",
+      "closeness": 7,
+      "dynamics": "Clone은 Joy의 밝은 성격과 적극적인 태도를 좋아하지만, Joy가 감정에 깊이 빠지면 Clone이 현실적인 조언을 하고 싶어하지만, Joy는 이를 받아들이기 어려운 상황이 발생할 수 있다.",
+      "interaction_style": "Clone은 재치 있는 대화와 함께하는 활동을 선호하며, Joy와의 대화에서 서로의 생각을 자유롭게 나눌 수 있는 편안한 분위기를 원한다.",
+      "common_activities": [
+        "영화 보기",
+        "회의적인 주제로 토론하기",
+        "함께 요리하기",
+        "자연 속에서 산책하기",
+        "주말에 친구들과 모여 게임하기"
+      ],
+      "potential_conflicts": [
+        "Joy의 감정적 몰입이 Clone에게는 과하게 느껴질 때",
+        "Clone이 Joy에게 진지한 조언을 하려 할 때 Joy가 이를 긍정적으로 받아들이지 않을 수 있음",
+        "Joy가 사회적 활동을 선호하는 반면, Clone은 더 개인적인 시간을 원할 때"
+      ]
+    },
+    "Anger": {
+      "relationship_type": "Clone은 Anger를 강렬하고 복잡한 감정을 지닌 친구로 여긴다. 때때로 그에게서 깊은 감정을 읽지만, 그의 분노가 자신에게 향하지 않도록 조심한다.",
+      "closeness": "6",
+      "dynamics": "Clone은 Anger의 감정을 존중하지만, 때때로 Anger의 과도한 반응에 압도당하기도 한다. Clone은 Anger의 좋은 면을 보고 싶어 하지만, 그의 감정이 격해질 때는 거리를 두려고 한다.",
+      "interaction_style": "Clone은 부드럽고 긍정적인 대화를 통해 Anger를 편안하게 해주고 싶어 하지만, Anger의 직설적인 말투에 불편함을 느낀다.",
+      "common_activities": [
+        "함께 운동하기",
+        "카페에서 편안한 대화 나누기",
+        "영화 관람 후 감정 공유하기"
+      ],
+      "potential_conflicts": [
+        "Anger의 강한 비난이나 감정 표현이 Clone에게 상처가 될 수 있음",
+        "Clone이 과도하게 배려하려 하면서 오히려 Anger의 감정을 무시하게 되는 상황",
+        "Anger가 상처를 받거나 고독함을 느낄 때 Clone이 적절히 반응하지 못해 발생하는 갈등"
+      ]
+    },
+    "Sadness": {
+      "relationship_type": "Clone은 Sadness를 깊이 있는 감정을 가진 친구로 여기고, 서로의 감정을 존중하는 관계로 바라봅니다.",
+      "closeness": 7,
+      "dynamics": "Clone은 Sadness의 내성적인 성향과 깊은 감정을 존중하면서도, 때때로 Sadness의 슬픔이 자신에게 부담으로 작용할 때도 있습니다. Clone은 자신의 긍정적인 에너지를 통해 Sadness를 위로하고 싶지만, Sadness의 감정에 깊이 공감하기도 하여 대화가 조율될 필요가 있습니다.",
+      "interaction_style": "Clone은 Sadness와의 대화를 즐겨하고, 가벼운 활동을 통해 Sadness를 편안하게 만들고 싶어합니다. 그러나 Sadness의 감정적인 접근에 대한 이해가 필요합니다.",
+      "common_activities": [
+        "영화 관람",
+        "카페에서의 대화",
+        "산책",
+        "게임",
+        "저녁 요리하기"
+      ],
+      "potential_conflicts": [
+        "Sadness가 감정적으로 힘든 날에 Clone의 긍정적인 에너지가 부담으로 작용할 수 있음",
+        "Clone이 Sadness의 슬픔을 가볍게 여기려 하거나 지나치게 감정적으로 대응할 때 발생하는 갈등"
+      ]
+    },
+    "Custom": {
+      "relationship_type": "Clone은 Custom을 깊이 있는 친구로 생각하며, 서로의 감정과 생각을 나누는 소중한 관계라고 평가한다.",
+      "closeness": 8,
+      "dynamics": "Clone은 Custom의 감정적이고 진정성 있는 면모를 높이 평가하며, 감정적으로도 잘 연결되어 있다고 느낀다. 그러나 Custom의 지나치게 이상주의적인 태도는 때때로 Clone에게 현실적이지 않다는 인상을 주기도 한다.",
+      "interaction_style": "Clone은 가볍고 유머러스한 대화를 선호하지만, Custom의 내향적인 성향을 고려하여 상대방이 편안하도록 배려하며 접근한다.",
+      "common_activities": [
+        "영화 보러 가기",
+        "함께 독서하기",
+        "창작 활동하기",
+        "게임이나 친구 모임에서 즐거운 시간 보내기"
+      ],
+      "potential_conflicts": [
+        "Custom의 이상적인 사고방식이 Clone에게는 비현실적으로 느껴질 때",
+        "Clone이 자신의 감정을 지나치게 드러낼 때 Custom이 부담을 느낄 수 있는 점"
+      ]
+    }
+  },
+  "Custom": {
+    "Joy": {
+      "relationship_type": "Custom은 Joy를 따뜻한 햇살 같은 존재로 여기며, 항상 긍정적인 에너지를 주는 친구라고 생각한다.",
+      "closeness": 7,
+      "dynamics": "Custom은 Joy의 긍정적인 태도와 감성을 존중하지만, 때때로 Joy가 자신의 감정에 너무 몰입하는 모습을 보면서 현실을 직시하지 못하는 점이 걱정된다. 이로 인해 Custom은 Joy에게 조금 더 현실적인 조언을 주고 싶어하지만, Joy가 이를 기분 나쁘게 받아들이지 않을까 우려한다.",
+      "interaction_style": "Custom은 조용한 카페에서 차 한 잔을 나누며 진지한 이야기를 나누는 것을 선호한다. Joy의 경쾌한 말투와 긍정적인 에너지가 좋지만, 가끔은 깊이 있는 대화를 나누고 싶어 한다.",
+      "common_activities": [
+        "자연 속에서의 산책",
+        "책 읽기",
+        "창작 활동",
+        "소규모 모임에서의 진지한 대화"
+      ],
+      "potential_conflicts": [
+        "Joy가 지나치게 감정적이거나 낙관적인 태도로 현실을 무시할 때 Custom은 불안감을 느낀다.",
+        "Custom이 현실적인 조언을 주고 싶어 할 때 Joy가 이를 잘 받아들이지 못할까 걱정한다.",
+        "Joy가 너무 많은 사회적 활동을 요구할 때 Custom은 부담을 느낄 수 있다."
+      ]
+    },
+    "Anger": {
+      "relationship_type": "Custom은 Anger를 깊은 감정을 가진 친구로 인식하지만, 그의 극단적인 반응이 때때로 불안하게 느껴짐",
+      "closeness": "5",
+      "dynamics": "Custom은 Anger의 솔직한 감정 표현을 이해하려고 하지만, Anger의 분노가 과격할 때 감정적으로 위축되기도 함. Custom은 Anger에게 긍정적인 에너지를 주려고 노력하지만, Anger의 반응이 예측할 수 없어 가끔 화가 나거나 긴장함.",
+      "interaction_style": "Custom은 친근하고 부드러운 대화를 선호하며, 감정을 이야기할 때 차분한 분위기를 원함. 반면 Anger는 즉각적인 반응을 중시하는 경향이 있어 서로의 기대가 불일치할 수 있음.",
+      "common_activities": [
+        "커피를 마시며 깊은 이야기를 나누기",
+        "자연 속에서 산책하기",
+        "영화를 함께 보며 감정적인 순간을 나누기"
+      ],
+      "potential_conflicts": [
+        "Custom이 Anger의 감정적 반응에 쉽게 위축되는 점",
+        "Anger가 Custom의 이상주의적 시각을 이해하지 못하고 비꼬는 경향이 있음",
+        "Custom은 Anger의 지나친 직설적인 언행에 민감하게 반응할 수 있음"
+      ]
+    },
+    "Sadness": {
+      "relationship_type": "Custom은 Sadness를 깊이 이해하고 공감하는 소중한 친구로 인식하며, Sadness의 감정적 깊이를 존중하고 응원하는 멘토 같은 존재로 생각합니다.",
+      "closeness": 7,
+      "dynamics": "Custom은 Sadness의 감정에 민감하게 반응하며, 서로의 감정을 나누는 깊은 대화를 선호합니다. 그러나 Custom의 지나치게 낙관적인 태도가 가끔 Sadness에게는 부담으로 작용할 수 있습니다.",
+      "interaction_style": "Custom은 상대방의 기분을 항상 살피고 긍정적인 에너지를 주는 정서적 지원을 선호하며, Sadness와의 대화 시 감정을 공유하는 방식으로 접근하려 합니다.",
+      "common_activities": [
+        "자연 속에서 산책하기",
+        "감정적인 영화를 함께 감상하기",
+        "조용한 카페에서 차를 마시며 서로의 이야기를 나누기",
+        "서로의 감정을 담은 일기나 글을 공유하기"
+      ],
+      "potential_conflicts": [
+        "Custom이 지나치게 긍정적이어서 Sadness의 부정적인 감정을 무시하거나 경시할 때",
+        "Custom이 Sadness에게 항상 힘이 되어주려 하면서 부담을 줄 수 있는 경우",
+        "Custom이 지나치게 이상주의적이어서 현실적인 문제를 간과할 때"
+      ]
+    },
+    "Clone": {
+      "relationship_type": "Custom은 Clone을 매우 친근하고 신뢰할 수 있는 친구로 여기지만, Clone의 독창성에 때때로 과도하게 압도당할 수 있습니다.",
+      "closeness": 7,
+      "dynamics": "Custom은 Clone의 에너지와 창의성을 존중하지만, Clone이 지나치게 감정적일 때 불편함을 느끼고, 자신이 중재자의 역할을 맡기 원할 때가 있습니다.",
+      "interaction_style": "Custom은 감정적인 대화와 깊은 사고를 중시하며, 대화를 통해 서로의 감정을 공유하고 싶어하지만 Clone은 가볍고 즉흥적인 대화를 선호합니다.",
+      "common_activities": [
+        "자연 속에서의 산책",
+        "영화 관람",
+        "창작 활동",
+        "서로의 관심사에 대해 깊은 대화 나누기"
+      ],
+      "potential_conflicts": [
+        "Clone이 감정적으로 격해질 때 Custom이 불편함을 느낄 수 있음",
+        "Custom의 이상주의가 Clone의 현실적인 접근과 충돌할 수 있음",
+        "Custom이 원할 때 더 깊이 있는 대화를 원하지만, Clone이 가볍게 넘어가고 싶어할 경우 발생하는 갈등"
+      ]
+    }
+  }
+}

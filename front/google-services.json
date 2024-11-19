@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "673415729459",
+    "project_id": "mirrorgram-20713",
+    "storage_bucket": "mirrorgram-20713.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673415729459:android:5639a22631ae920e3aee46",
+        "android_client_info": {
+          "package_name": "com.himedia.mirrorgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673415729459-g7b8ba4qjhrvv7aj0rt119dkbnsfj5qp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB4EtIFBvTsKe78T3O_U7is6ihWEdTYbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673415729459-g7b8ba4qjhrvv7aj0rt119dkbnsfj5qp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "673415729459-l2lj7loq8gtpp5t6a33nnetsq1fc1kfo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.name.instagram"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
