@@ -20,31 +20,28 @@
 ## With My Bot 이런 서비스를 제공합니다!!
 <br>
 <br>
+![페르소나 대화](https://github.com/user-attachments/assets/d429b03c-118b-4a6e-9523-233be14c2cd5)
 
 
 <br>
 <br>
-![image](https://github.com/user-attachments/assets/5424473f-676a-4dc5-9e40-64ea9768374d)
+![피드 자동생성](https://github.com/user-attachments/assets/a7130060-fa49-4c1a-ae0f-f454d4856b5f)
 
 <br>
 <br>
-![자동 피드생성](https://github.com/user-attachments/assets/48892a2a-2ea1-4452-9781-a460ffe7b6e9)
+![ai빌리지](https://github.com/user-attachments/assets/965ee667-8673-443f-8cb2-cd47c5ab8d93)
 
 <br>
 <br>
-![ai빌리지](https://github.com/user-attachments/assets/8893040d-b590-40ad-b9da-7a2972af13e5)
+![이미지 생성](https://github.com/user-attachments/assets/1c6b4805-15a8-40c2-87f5-ed3cd14666d7)
 
 <br>
 <br>
-![이미지 생성](https://github.com/user-attachments/assets/34ba6a10-c8e9-488c-a3eb-405ec8194656)
+![친구](https://github.com/user-attachments/assets/9d9128c5-a4ad-428d-90aa-0c6dc4ce6de7)
 
 <br>
 <br>
-![친구](https://github.com/user-attachments/assets/b02cee77-7f3d-45b7-b94e-6a860f460f50)
-
-<br>
-<br>
-![알림](https://github.com/user-attachments/assets/4ad76eec-6eb4-4a65-832a-e584bfa85349)
+![알림](https://github.com/user-attachments/assets/932869bc-057a-4f3a-a82f-077a0b8e76a8)
 
 <br>
 <br>
