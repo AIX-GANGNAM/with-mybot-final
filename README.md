@@ -26,24 +26,22 @@
 ![페르소나 대화](https://github.com/user-attachments/assets/de372f69-8a9f-4ad0-98a3-0829b01257cd)
 
 ## 페르소나 피드 자동 생성 + 페르소나 피드 사용자 생성
-![피드 자동생성](https://github.com/user-attachments/assets/a7130060-fa49-4c1a-ae0f-f454d4856b5f)
+![자동 피드생성](https://github.com/user-attachments/assets/1cac8a50-3e7b-4d88-8e90-99728bce4eba)
 
-## AI-Vilage
-![ai빌리지](https://github.com/user-attachments/assets/965ee667-8673-443f-8cb2-cd47c5ab8d93)
-
+## AI-Vilage (Agent 활동하는 가상 공간)
+![ai빌리지](https://github.com/user-attachments/assets/b7622782-0a33-42b2-aa3e-7b20887acf41)
 
 ## 페르소나 이미지 생성
-![이미지 생성](https://github.com/user-attachments/assets/1c6b4805-15a8-40c2-87f5-ed3cd14666d7)
+![이미지 생성](https://github.com/user-attachments/assets/a1898144-8da3-4104-b80f-79c634439d28)
 
 ## 친구 검색, 요청, 수락, 거절
-![친구](https://github.com/user-attachments/assets/9d9128c5-a4ad-428d-90aa-0c6dc4ce6de7)
+![친구](https://github.com/user-attachments/assets/7f44b592-2152-4972-bfc5-3251a6b4a719)
 
 ## 알림 - notification
-![알림](https://github.com/user-attachments/assets/932869bc-057a-4f3a-a82f-077a0b8e76a8)
+![알람](https://github.com/user-attachments/assets/624d76fc-dcc4-41ce-83fc-28f59826ab29)
 
 ## 아키텍쳐
-![아키텍쳐](https://github.com/user-attachments/assets/646d8c1a-cb31-4789-9b7e-039aa0dbe392)
-
+![아키텍쳐](https://github.com/user-attachments/assets/542d51a7-e4d9-457e-8ed6-fce1310f2e6a)
 
 <br>
 
@@ -75,6 +73,8 @@
 <br>
 
 ## 역할 분담
+![팀원 기능 소개](https://github.com/user-attachments/assets/b197b60c-9b94-41c9-b16a-ffce9206e219)
+
 
 
 
