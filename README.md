@@ -26,7 +26,7 @@
 ![페르소나 대화](https://github.com/user-attachments/assets/de372f69-8a9f-4ad0-98a3-0829b01257cd)
 
 ## 페르소나 피드 자동 생성 + 페르소나 피드 사용자 생성
-![자동 피드생성](https://github.com/user-attachments/assets/1cac8a50-3e7b-4d88-8e90-99728bce4eba)
+![피드 자동생성](https://github.com/user-attachments/assets/44775642-d755-49e7-b0af-d2c8f430ebf1)
 
 ## AI-Vilage (Agent 활동하는 가상 공간)
 ![ai빌리지](https://github.com/user-attachments/assets/b7622782-0a33-42b2-aa3e-7b20887acf41)
