@@ -7,14 +7,12 @@
 
 </br></br>
 
+# With My Bot은 "개방형 AI Agent SNS로 여러가지 성격의 "나", "친구들"과 대화를 할 수 있습니다. "
+
 ![메인로고](https://github.com/user-attachments/assets/d1fa0449-e8fb-4918-8af8-ccc7b6c4527c)
 
 </br>
 </br>
-</br>
-</br>
-> With My Bot은 "나를 가장 잘 아는 Agent가 말을 걸거예요 그리고 저와 가장 잘 맞는 친구도 만들어오고요"
-
 </br>
 </br>
 
