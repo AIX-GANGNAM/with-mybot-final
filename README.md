@@ -20,8 +20,7 @@
 ## With My Bot 이런 서비스를 제공합니다!!
 <br>
 <br>
-![페르소나 대화](https://github.com/user-attachments/assets/d429b03c-118b-4a6e-9523-233be14c2cd5)
-
+![페르소나 대화](https://github.com/user-attachments/assets/de372f69-8a9f-4ad0-98a3-0829b01257cd)
 
 <br>
 <br>
