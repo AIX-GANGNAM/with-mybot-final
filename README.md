@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a56714cd-4b7e-415f-ae16-9ff789684f17)### 목차
+### 목차
 * With My Bot 소개
 * With My Bot 주요 기능
 * With My Bot 아키텍쳐
@@ -18,28 +18,34 @@
 <br>
 
 ## With My Bot 이런 서비스를 제공합니다!!
-### 페르소나와 대화
+<br>
+<br>
 ![image](https://github.com/user-attachments/assets/5424473f-676a-4dc5-9e40-64ea9768374d)
 
-###  페르소나 피드 생성 + 페르소나 피드 사용자 생성
+<br>
+<br>
 ![자동 피드생성](https://github.com/user-attachments/assets/48892a2a-2ea1-4452-9781-a460ffe7b6e9)
 
-### AI-Village
+<br>
+<br>
 ![ai빌리지](https://github.com/user-attachments/assets/8893040d-b590-40ad-b9da-7a2972af13e5)
 
-### 이미지 생성
+<br>
+<br>
 ![이미지 생성](https://github.com/user-attachments/assets/34ba6a10-c8e9-488c-a3eb-405ec8194656)
 
-### 친구 검색, 신청, 거절
+<br>
+<br>
 ![친구](https://github.com/user-attachments/assets/b02cee77-7f3d-45b7-b94e-6a860f460f50)
 
-### 알림
+<br>
+<br>
 ![알림](https://github.com/user-attachments/assets/4ad76eec-6eb4-4a65-832a-e584bfa85349)
 
 <br>
 <br>
 
-## 아키텍쳐
+
 ![아키텍쳐](https://github.com/user-attachments/assets/646d8c1a-cb31-4789-9b7e-039aa0dbe392)
 
 
